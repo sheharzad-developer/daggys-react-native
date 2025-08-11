@@ -15,13 +15,18 @@ A modern, mobile-first restaurant menu application built with React Native and E
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/images/1.png" width="200" alt="App Screenshot 1" />
-  <img src="assets/images/2.png" width="200" alt="App Screenshot 2" />
-  <img src="assets/images/3.png" width="200" alt="App Screenshot 3" />
-  <img src="assets/images/4.png" width="200" alt="App Screenshot 4" />
+  <img src="./assets/images/1.png" width="200" alt="App Screenshot 1" />
+  <img src="./assets/images/2.png" width="200" alt="App Screenshot 2" />
+  <img src="./assets/images/3.png" width="200" alt="App Screenshot 3" />
+  <img src="./assets/images/4.png" width="200" alt="App Screenshot 4" />
 </div>
 
 *Screenshots showcasing the Daggy's Menu app interface and features*
+
+> **Note**: If images don't display on GitHub, you may need to:
+> 1. Push the repository to GitHub first
+> 2. Use absolute URLs like: `https://github.com/username/repository/raw/main/assets/images/1.png`
+> 3. Or upload images to GitHub Issues and use those URLs
 
 ## 🛠️ Tech Stack
 
