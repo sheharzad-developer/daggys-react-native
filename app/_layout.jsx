@@ -17,7 +17,8 @@ export default function RootLayout() {
       <Stack.Screen
         name="(tabs)"
         options={{
-          headerShown: false,
+          headerTitle: 'Home',
+          headerShown: true,
         }}
       />
       <Stack.Screen
